@@ -1,0 +1,31 @@
+#containerJeremy{
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  background: #02AAB0;
+  background: linear-gradient(
+    to right,
+    #02AAB0,#00CDAC
+  );
+}
+
+#tituloJeremy{
+    text-align: center;
+}
+
+#presentacionJeremy{
+    text-align: center;
+    font-size: 20px;
+}
+
+#certificadosJeremy{
+    text-align: center;
+    font-size: 20px;
+}
+
+#certificados{
+  justify-content: center;
+  display: flex;
+  gap: 20px;
+}
