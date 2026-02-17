@@ -67,3 +67,42 @@
   gap: 20px;
 }
 
+/* css Luis Tun*/
+#containerLuis {
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  background: #d67fff;
+  background: linear-gradient(to right, #ff537e, #df4545);
+  padding: 30px 20px;
+  border-radius: 10px;
+  color: white;
+}
+
+#tituloLuisTun {
+  text-align: center;
+}
+
+#descirpcionLuis {
+  text-align: center;
+  font-size: 20px;
+}
+
+#misProyectos {
+  text-align: center;
+  font-size: 20px;
+}
+
+#containerLuis > div {
+  display: flex;           
+  justify-content: center; 
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+#containerLuis > div img {
+  max-width: 500px;
+  height: auto;
+  border-radius: 10px;
+}
