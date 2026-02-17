@@ -67,3 +67,55 @@
   gap: 20px;
 }
 
+
+#containerWilliam{
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  background: blue;
+  background: linear-gradient(
+    to right,
+    gray,
+    #2575fc
+  );
+  color: #ffffff;
+}
+
+#tituloWilliam{
+    text-align: center;
+}
+
+#presentacionWilliam {
+    text-align: justify; 
+    font-size: 20px;
+    line-height: 1.6;
+    margin: 0 auto; 
+    max-width: 800px; 
+}
+
+#textFotoMia{
+  justify-content: center;
+  display: flex;
+  gap: 20px;
+}
+
+#fotoimg{
+  justify-content: center;
+  display: flex;
+  gap: 20px;
+}
+
+#containerTwo{
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  background: green;
+  background: linear-gradient(
+    to right,
+    red,
+    green
+  );
+  color: #ffffff;
+}
