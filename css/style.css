@@ -227,3 +227,21 @@
   color: #a0c4c4; /* verde agua sobrio */
 }
 
+#yubini{
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  background: linear-gradient(
+    to right,
+    #3c7b43,#97f7a0
+  );
+}
+
+#tituloyubini{
+    text-align: center;
+}
+
+#imgagenesyubini{
+    text-align: center;
+}
